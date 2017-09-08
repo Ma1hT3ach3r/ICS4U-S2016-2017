@@ -1,22 +1,22 @@
 # 20 Time Project
 Template for logging 20Time work and learning.  This file should be updated as a log file for the project, and any data files (if necessary) should be found within the repository.  
 
-##Topic
+##Topic (30 second Elevator Pitch Due Friday Sept 15th)
 * To be determined
 
-####Week 1 (Feb 12 - Feb 18)
+####Week 1 (Sep 18 - 22)
 * To follow
 
-####Week 2 (Feb 19 - Feb 25)
+####Week 2 (Sep 25 - 29)
 * To follow
 
-###Week 3 (Feb 26 - Mar 4)
+###Week 3 (Oct 1 - 6)
 * To follow
 
-####Week 4 (Mar 5 - Mar 11)
+####Week 4 (Oct 9 - 13)
 * To follow
 
-####Week 5 (Mar 12 - Mar 18)
+####Week 5 (Oct 12 - Mar 18)
 * To follow
 
 ####Week 6 (Mar 19 - Mar 25)
