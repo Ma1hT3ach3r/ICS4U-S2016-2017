@@ -12,7 +12,7 @@ Project Criteria
 * This project has to be new to you, and is something you won't get to do in another class (or this class).
 * Decide what you will produce/showcase.
 * Must be shared with the world by the end.
-* You must log your learning.  I suggest using a **20time** Git repo that you update on a regular basis (minimum once a week).  Check out he TEMPLATE.md above.
+* You must log your learning.  You must use a **20time** Git repo that you update on a regular basis (minimum once a week).  Check out the TEMPLATE.md above, or create one that works for you, or make it better and maybe others might want to use yours!
 * Failure is an option, the key is to learn from your mistakes!
 
 Looking for some ideas? [Check this video out.](https://www.youtube.com/watch?v=xupHuEk8p7g)
